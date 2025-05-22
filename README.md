@@ -1,3 +1,7 @@
+# Warning!!!
+
+Some users reported getting copilot account restricted https://github.com/leona/helix-gpt/discussions/84
+
 # Fork
 
 Adds support for deno, the codebase now works with deno and bun at the same time
